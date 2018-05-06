@@ -3,9 +3,4 @@
 
 # SETUP
 
-type following command.
-
-```
-git clone git@github.com:tonkatu05/my-tmux.conf.git ~/.my-tmux.conf
-ln -s ~/.my-tmux.conf/tmux.conf ~/.tmux.conf
-```
+clone this repository, then run `migrate.sh`
